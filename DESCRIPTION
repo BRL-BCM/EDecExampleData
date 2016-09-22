@@ -1,0 +1,14 @@
+Package: EDecExampleData
+Title: Example dataset for use with the EDec package
+Version: 0.9
+Authors@R: person("Vitor",
+  "Onuchic",
+  email = "vitor.onuchic@bcm.edu",
+  role = c("aut", "cre"))
+Description: This package contains an example dataset used to illustrate the
+  use of the EDec method.
+Depends: R (>= 3.1.2)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: TRUE
+RoxygenNote: 5.0.1.9000
